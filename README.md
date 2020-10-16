@@ -15,7 +15,7 @@
 
 ### Or ; يمكنك تثبيتها بهذا الامر
 ```
-apt update && apt install git -y && git clone https://github.com/sadamshr3be/termux-key-master && cd termux-key && bash key.sh
+apt update && apt install git -y && git clone https://github.com/sadamshr3be/termux-key-master && cd termux-key-master && bash key.sh
 ```
 
 ## [+] Find Me on :
